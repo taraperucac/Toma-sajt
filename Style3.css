@@ -14,7 +14,8 @@
  body {margin:0;
 background-color: #004d4d;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 16px;}
+font-size: 16px;
+overflow-x:hidden;}
 
 header {margin: 0;
 background-color: var(--sekundarnaboja);
@@ -820,7 +821,8 @@ height: fit-content;}
 {body {background-color: var(--sekundarnaboja);
 color: var(--tekstbojaa);
 margin:0;
-width: 100%;}
+width: 100%;
+overflow-x:hidden;}
 
 header {background-color: var(--tekstboja);
 margin: 0;
