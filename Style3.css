@@ -764,7 +764,8 @@ flex-wrap: wrap;
 
 }
 
-.galerija .galerija-grid img {width: 400px;
+.galerija .galerija-grid img {width: 300px;
+                              height:300px;
 
 
 }
