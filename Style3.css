@@ -355,8 +355,8 @@ margin: 0 auto;
 .galerija .galerija-grid .slika-tekst h3 {color: var(--tekstbojaa);
 text-align: center;
 font-style: italic;}
-.galerija .galerija-grid img {width:200px;
-                              height:200px;}
+.galerija .galerija-grid img {width:400px;
+                              height:400px;}
 
 .mapa {margin:0;
 background-color: var(--tekstboja);}
