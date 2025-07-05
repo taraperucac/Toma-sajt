@@ -342,7 +342,9 @@ background: var(--tekstbojaa);}
     flex-wrap: wrap;
 }
 
-.galerija .galerija-grid img {object-fit: cover;}
+.galerija .galerija-grid img {object-fit: cover;
+                             width:300px;
+                             height:300px;}
 
 
 .galerija .galerija-grid .slika-tekst {background-color: var(--body);
