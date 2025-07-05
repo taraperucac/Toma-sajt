@@ -771,7 +771,7 @@ flex-wrap: wrap;
 
 }
 
-.galerija .galerija-grid .slika-tekst {display: none;}
+.galerija .galerija-grid .slika-tekst {display: collapse;}
 
 .mapa {width: 100%;
     margin:0;
