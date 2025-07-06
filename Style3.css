@@ -780,7 +780,9 @@ width: 80%; text-align: justify;
 }
 .cenovnik-container {width: 100%;
 margin: 0;
-background-color: #ece9e7;}
+background-color: #ece9e7;
+overflow-x:auto;
+-webkit-overflow-scrooling:touch;}
 
 .cenovnik-container h1 {margin: 0 auto;
 font-style: italic;
@@ -789,7 +791,9 @@ padding-left: 10px;
 
 }
 
-.cenovnik-container table {width: 400px;
+.cenovnik-container table {width: 100%;
+min-width:400px;
+border-collapse:collapse;
 margin: 0;
 background-color: #51b095a8;
 color: #ece9e7;
