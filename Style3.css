@@ -329,6 +329,33 @@ color: var(--tekstboja);}
 font-style: italic;
 font-size: 22px;}
 
+.cenovnik-container {width: 1000px;
+margin: 0 auto;
+background-color: #ece9e7;}
+
+.cenovnik-container h1 {margin: 0 auto;
+font-style: italic;
+color: #2fb690;
+padding-left: 100px;
+
+}
+
+.cenovnik-container table {width: 80%;
+margin: 0 auto;
+background-color: #51b095a8;
+color: #ece9e7;
+border: 5px solid #ece9e7;}
+ 
+th, td {border: 3px solid #178b6a;
+padding: 10px;}
+
+th {background-color: #1dad84;
+font-size: 20px;}
+
+td {text-align: center;
+font-size: 18px;}
+
+
 .galerija {margin: 0;
 width: 100%;
 background: var(--tekstbojaa);}
