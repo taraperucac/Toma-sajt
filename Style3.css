@@ -786,23 +786,25 @@ background-color: #ece9e7;}
 font-style: italic;
 color: #2fb690;
 padding-left: 50px;
+font-size: 20px;
 
 }
 
-.cenovnik-container table {width: 100%;
+.cenovnik-container table {width: 400px;
 margin: 0;
 background-color: #51b095a8;
 color: #ece9e7;
 border: 5px solid #ece9e7;}
  
 th, td {border: 3px solid #178b6a;
-padding: 10px;}
+padding: 10px;
+width:150px;}
 
 th {background-color: #1dad84;
-font-size: 20px;}
+font-size: 18px;}
 
 td {text-align: center;
-font-size: 18px;}
+font-size: 16px;}
 
 .galerija {margin:0;
 width: 100%;}
