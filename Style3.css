@@ -806,7 +806,9 @@ width: 100%;
 flex-direction: row;}
  
 th, td {border: 3px solid #178b6a;
-padding: 5px;}
+padding: 5px;
+text-align:left;
+word-wrap:wrap;}
 
 th {background-color: #1dad84;
 font-size: 20px;
