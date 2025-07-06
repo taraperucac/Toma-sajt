@@ -778,7 +778,7 @@ align-self: center;}
 width: 80%; text-align: justify;
 
 }
-.cenovnik-container {width: 100%;
+/*.cenovnik-container {width: 100%;
 margin: 0;
 background-color: #ece9e7;
 overflow-x:auto;
@@ -816,7 +816,7 @@ width: 120px;}
 
 td {text-align: center;
 font-size: 18px;
-width: 120px;}
+width: 120px;}*/
 
 .galerija {margin:0;
 width: 100%;}
